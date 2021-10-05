@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://feetaro.github.io/csb-lrj5f/static/js/main.b8552bcb.chunk.js",
+    "main.js.map": "https://feetaro.github.io/csb-lrj5f/static/js/main.b8552bcb.chunk.js.map",
+    "runtime-main.js": "https://feetaro.github.io/csb-lrj5f/static/js/runtime-main.d4ae3102.js",
+    "runtime-main.js.map": "https://feetaro.github.io/csb-lrj5f/static/js/runtime-main.d4ae3102.js.map",
+    "static/js/2.dbd3a482.chunk.js": "https://feetaro.github.io/csb-lrj5f/static/js/2.dbd3a482.chunk.js",
+    "static/js/2.dbd3a482.chunk.js.map": "https://feetaro.github.io/csb-lrj5f/static/js/2.dbd3a482.chunk.js.map",
+    "index.html": "https://feetaro.github.io/csb-lrj5f/index.html",
+    "static/js/2.dbd3a482.chunk.js.LICENSE.txt": "https://feetaro.github.io/csb-lrj5f/static/js/2.dbd3a482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4ae3102.js",
+    "static/js/2.dbd3a482.chunk.js",
+    "static/js/main.b8552bcb.chunk.js"
+  ]
+}
